@@ -11,8 +11,6 @@ This project will use the Stack Overflow data from 2017 from Kaggle as the basis
 
 Here are the questions that I'm looking to answer in this project:
 
-Main query topic: Should I stay in the US or should I go? I'll frame this as basically "Stay in the West" or "Go to the East"
-
     1) What is the salary difference between the West and the East?
     2) Any significant job satisfaction differences?
     3) What is the propensity to work remotely?
