@@ -1,5 +1,7 @@
 # Write-A-Data-Science-Blog-Post
-This is a blog post for my Udacity Data Scientist course. The Blog Post can be found here: https://nameisunique.github.io/
+This is a blog post for my Udacity Data Scientist course. 
+
+The Blog Post can be found here: https://nameisunique.github.io/
 
 Working for IBM, there are often opportunities to work in a variety of worldwide locations outside of your own home country. About 10 years ago I took an assignment to work and live for several years in the UK. That was a fascinating opportunity to work in and absorb a European culture. Now many of the opportunities are in what IBM refers to as "emerging markets", such as China, Singapore, India, and others.
 
