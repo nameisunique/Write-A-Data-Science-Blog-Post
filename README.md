@@ -5,5 +5,5 @@ Working for IBM, there are often opportunities to work in a variety of worldwide
 
 While Europe was what I'd consider to be an "easy" place to work (not too dissimalar cultures from the US, English generally spoken, salary ranges comparable to the US), I'm wondering if an opportunity to work in one of the emerging markets would be viable.
 
-Use the Stack Overflow data from 2017 from Kaggle as the basis for the examination per the rubric. The survey itself is pretty interesting and I will use this project as a foundation to examine the results with future results. I did find that Kaggle also has provides a good survey data tool that was very helpful in getting an intial view of the data.
+Use the Stack Overflow data from 2017 from Kaggle as the basis for the examination per the rubric. The survey itself is pretty interesting and I will use this project as a foundation to examine the results with future results. I did find that Kaggle also has provides a good survey data tool that was very helpful in getting an initial view of the data.
 
