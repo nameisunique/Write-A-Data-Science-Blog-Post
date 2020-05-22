@@ -1,4 +1,4 @@
-# Write-A-Data-Science-Blog-Post
+# Write A Data Science Blog Post
 This is a blog post for my Udacity Data Scientist course. 
 
 The Blog Post can be found here: https://nameisunique.github.io/
