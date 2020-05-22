@@ -7,3 +7,11 @@ While Europe was what I'd consider to be an "easy" place to work (not too dissim
 
 Use the Stack Overflow data from 2017 from Kaggle as the basis for the examination per the rubric. The survey itself is pretty interesting and I will use this project as a foundation to examine the results with future results. I did find that Kaggle also has provides a good survey data tool that was very helpful in getting an initial view of the data.
 
+Here are the questions that I'm looking to answer in this project:
+
+Main query topic: Should I stay in the US or should I go? I'll frame this as basically "Stay in the West" or "Go to the East"
+
+    1) What is the salary difference between the West and the East?
+    2) Any significant job satisfaction differences?
+    3) What is the propensity to work remotely?
+
